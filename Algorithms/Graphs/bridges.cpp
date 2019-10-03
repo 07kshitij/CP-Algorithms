@@ -1,3 +1,4 @@
+// https://cp-algorithms.com/graph/bridge-searching.html
 vector<vector<int>> adj;
 vector<vector<int>> bridges;
 vector<bool> visited;
